@@ -1,0 +1,94 @@
+[CENTER][IMG]https://raw.githubusercontent.com/ZenX-OS/XDA/ten/Images/ZenX-OS_logo.png[/IMG][/CENTER]
+
+[SIZE="5"][LEFT][U]About[/U][/LEFT][/SIZE][QUOTE][SIZE="3"]Here lives the true heart of mighty Havoc-OS founded by ZeNiXxX.
+ZenX-OS is rebranded and intelligent Havoc-OS focused on bringing you best ROM experience. 
+We care about notched devices, material design guidlines but we also allow user to set UI as he wish.
+[/SIZE][/QUOTE]
+[SIZE="5"][LEFT][U]Features[/U][/LEFT][/SIZE][HIDE][QUOTE]• Face Unlock
+• SystemInfo Tile (shows battery percentage, battery temp, cpu temp, gpu freq, cpu freq )
+• SystemInfo in QS next to Privacy chip icon
+• Calculator tile
+• Camera tile
+• Calendar/Event Tile
+• Dialer tile
+• Minimal and Minimal Box Clock for lockscreen
+• Option to disable dashboard conditions and suggestions
+• Optimize icons padding for notched devices (system and notification icons)
+• Ability of sensor block per-package
+• Increasing ring feature
+• Lockscreen Clock Widget Fonts (Sammy, Sammy bold, Sammy accent, Default bold, Default accent and so on)
+• Lockscreen Date Fonts
+• Language toggle tile
+• Statusbar Clock Font
+• QS-Clock: Font style options
+• Volume dialog timeout
+• Accent gradient QS Header Background
+• Ability to show or Hide Privacy chip
+• Option to move network traffic to QS footer
+• Accent color for Lockscreen ClockWidgets
+• FontEngine - lots of different cool fonts
+• Lots of more Accent colors
+• Lots of more dark theme color modes
+• Lockscreen clock/date font styles
+• Lockscreen clock/date size
+• Lockscreen clock position (left center right)
+• QS Header data usage info
+• Toggle for notifications smart reply
+• Set QS Header battery modes
+• Set QS system bar battery mode
+• Enable Systemwide Google Sans font
+• Battery bar on statusbar, nav-bar, QS-non expanded and QS-expanded position
+• Add toggle for charging animation
+• Keyguard charging animations
+• Lockscreen animations
+• AOD animations
+• Lockscreen Battery bar on charging or always
+• Allow hiding DND and Alarm from InfoBox to prevent cutted text on lockscreen
+• Increase animations speed for better ui feeling
+• Hide check button on Quick Unlock
+• Intellingent Performance Profiles Integration [URL="https://del.dog/IntelligentProfiles.txt"]https://del.dog/IntelligentProfiles.txt[/URL] // Will add link to GitHub Documentation
+• Ultra power saving mode
+• Cool wallpapers every release
+• Full ANX support and fixed portrait mode in source
+• Cleanup and optimize settings
+• Removed broken preferences and also make custom doze accessable via settings
+• and more..[/QUOTE][/HIDE]
+[U][LEFT][SIZE="5"]Downloads[/SIZE][/LEFT][/U][SIZE="3"][URL="http://androidfilehost.com"]Gapps Version[/URL]
+[URL="http://androidfilehost.com"]Vanilla Version[/URL][/SIZE]
+
+[U][LEFT][SIZE="5"]Changelog[/SIZE][/LEFT][/U][SIZE="3"][URL="http://del.dog"]Highlights[/URL]
+[URL="http://del.dog"]Full changelog[/URL][/SIZE]
+
+[U][LEFT][SIZE="5"]Installation notes[/SIZE][/LEFT][/U]
+[HIDE][CODE]Clean Install:
+
+1. Download Rom + Magisk
+2. Wipe System, Cache and Data (not Internal storage)
+3. Flash Rom + Magisk
+
+Dirty Install:
+
+1. Download Rom and Magisk
+2. Wipe System and Cache
+3. Flash Rom + Magisk
+
+Troubleshooting:
+
+Attention: If you are encrypted flash DM-Varity zip.
+
+Crystal Clean Install:
+
+1. Download stock rom: download latest beta 20.1.21
+2. Wipe Data,Cache and System
+3. Flash stock beta miui rom ** DONT REBOOT **
+4. Wipe Data,Cache and System
+5. Flash Rom + Magisk[/CODE][/HIDE]
+[SIZE="3"][LIST]
+[*][B]Android OS version:[/B]
+[*][B]Security patch level:[/B] 
+[*][B]Build author/Device Maintainer: [/B]
+[*][B]Kernel Source: [/B]
+[*][B]Device Source code:[/B]
+[*][B]Source code: [/B][URL="https://github.com/ZenX-OS"]https://github.com/ZenX-OS[/URL]
+[*][B]ROM Developer:[/B] @ZeNiXxX
+[/LIST][/SIZE]
