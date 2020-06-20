@@ -5,9 +5,9 @@ ZenX-OS is rebranded and intelligent Havoc-OS focused on bringing you best ROM e
 We care about notched devices, material design guidlines but we also allow user to set UI as he wish.
 [/SIZE][/QUOTE]
 [SIZE="5"][LEFT][U]Features[/U][/LEFT][/SIZE][HIDE][QUOTE]
-• Optional Dual row statusbar for notification and systemicons
+• Optional Dual row statusbar for notification and system icons
 • FaceUnlock
-• Most advanced Clock styles options (choose all bold and accent varianten you want)
+• Most advanced Clock styles options (choose all bold and accent variants you want)
 • Ultra fast FOD
 • OTA support
 • Seperated Clock style for statusbar and QuicksettingsHeader
@@ -58,6 +58,7 @@ We care about notched devices, material design guidlines but we also allow user 
 • Ultra power saving mode
 • Cool wallpapers every release
 • Full ANX support and fixed portrait mode in source
+• Full camera frame support in ANX
 • Cleanup and optimize settings
 • Removed broken preferences and also make custom doze accessable via settings
 • and more..[/QUOTE][/HIDE]
