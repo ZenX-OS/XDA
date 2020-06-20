@@ -4,7 +4,15 @@
 ZenX-OS is rebranded and intelligent Havoc-OS focused on bringing you best ROM experience. 
 We care about notched devices, material design guidlines but we also allow user to set UI as he wish.
 [/SIZE][/QUOTE]
-[SIZE="5"][LEFT][U]Features[/U][/LEFT][/SIZE][HIDE][QUOTE]• Face Unlock
+[SIZE="5"][LEFT][U]Features[/U][/LEFT][/SIZE][HIDE][QUOTE]
+• Optional Dual row statusbar for notification and systemicons
+• FaceUnlock
+• Most advanced Clock styles options (choose all bold and accent varianten you want)
+• Ultra fast FOD
+• OTA support
+• Seperated Clock style for statusbar and QuicksettingsHeader
+• Toast Animations
+• OOS Notification kill button for notification panel
 • SystemInfo Tile (shows battery percentage, battery temp, cpu temp, gpu freq, cpu freq )
 • SystemInfo in QS next to Privacy chip icon
 • Calculator tile
@@ -52,9 +60,6 @@ We care about notched devices, material design guidlines but we also allow user 
 • Full ANX support and fixed portrait mode in source
 • Cleanup and optimize settings
 • Removed broken preferences and also make custom doze accessable via settings
-• Dual row statusbar
-• FaceUnlock
-• OTA support
 • and more..[/QUOTE][/HIDE]
 [U][LEFT][SIZE="5"]Downloads[/SIZE][/LEFT][/U][SIZE="3"][URL="http://androidfilehost.com"]Gapps Version[/URL]
 [URL="http://androidfilehost.com"]Vanilla Version[/URL][/SIZE]
@@ -81,9 +86,9 @@ Attention: If you are encrypted flash DM-Varity zip.
 
 Crystal Clean Install:
 
-1. Download stock rom: download latest beta 20.1.21
+1. Download stock rom: (depends of device and stock rom of course)
 2. Wipe Data,Cache and System
-3. Flash stock beta miui rom ** DONT REBOOT **
+3. Flash stock Rom for your device ** DONT REBOOT **
 4. Wipe Data,Cache and System
 5. Flash Rom + Magisk[/CODE][/HIDE]
 [SIZE="3"][LIST]
