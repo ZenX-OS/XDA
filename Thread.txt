@@ -1,4 +1,4 @@
-[CENTER][IMG]https://raw.githubusercontent.com/ZenX-OS/XDA/ten/Images/ZenX-OS_logo.png[/IMG][/CENTER]
+[CENTER][IMG]https://raw.githubusercontent.com/ZenX-OS/XDA/master/Images/ZenX-OS_logo.png[/IMG][/CENTER]
 
 [SIZE="5"][LEFT][U]About[/U][/LEFT][/SIZE][QUOTE][SIZE="3"]Here lives the true heart of mighty Havoc-OS founded by ZeNiXxX.
 ZenX-OS is rebranded and intelligent Havoc-OS focused on bringing you best ROM experience. 
@@ -52,6 +52,9 @@ We care about notched devices, material design guidlines but we also allow user 
 • Full ANX support and fixed portrait mode in source
 • Cleanup and optimize settings
 • Removed broken preferences and also make custom doze accessable via settings
+• Dual row statusbar
+• FaceUnlock
+• OTA support
 • and more..[/QUOTE][/HIDE]
 [U][LEFT][SIZE="5"]Downloads[/SIZE][/LEFT][/U][SIZE="3"][URL="http://androidfilehost.com"]Gapps Version[/URL]
 [URL="http://androidfilehost.com"]Vanilla Version[/URL][/SIZE]
