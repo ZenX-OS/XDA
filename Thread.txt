@@ -1,8 +1,8 @@
 [CENTER][IMG]https://raw.githubusercontent.com/ZenX-OS/XDA/master/Images/ZenX-OS_logo.png[/IMG][/CENTER]
 
-[SIZE="5"][LEFT][U]About[/U][/LEFT][/SIZE][QUOTE][SIZE="3"]Here lives the true heart of mighty Havoc-OS founded by ZeNiXxX.
-ZenX-OS is rebranded and intelligent Havoc-OS focused on bringing you best ROM experience. 
-We care about notched devices, material design guidlines but we also allow user to set UI as he wish.
+[SIZE="5"][LEFT][U]About[/U][/LEFT][/SIZE][QUOTE][SIZE="3"]ZenX-OS is the new Gen and intelligent AOSP based ROM for best experience.
+We care about notched devices, material design guidelines but we also allow user to set Ui as he wish.
+Developed for excellence
 [/SIZE][/QUOTE]
 [SIZE="5"][LEFT][U]Features[/U][/LEFT][/SIZE][HIDE][QUOTE]
 • Optional Dual row statusbar for notification and system icons
