@@ -1,25 +1,26 @@
 [CENTER][IMG]https://raw.githubusercontent.com/ZenX-OS/XDA/master/Images/ZenX-OS_logo.png[/IMG][/CENTER]
 
-[SIZE="5"][LEFT][U]About[/U][/LEFT][/SIZE][QUOTE][SIZE="3"]ZenX-OS is the new Gen and intelligent AOSP based ROM for best experience.
-We care about notched devices, material design guidelines but we also allow user to set Ui as he wish.
+[SIZE="5"][LEFT][U]About[/U][/LEFT][/SIZE][QUOTE][SIZE="3"]ZenX-OS 2 is the most featured custom ROM out there.
+We care about notched devices, material design guidelines but we also allow user to set UI as he wish.
 Developed for excellence
 [/SIZE][/QUOTE]
 [SIZE="5"][LEFT][U]Features[/U][/LEFT][/SIZE][HIDE][QUOTE]
 • Optional Dual row statusbar for notification and system icons
 • FaceUnlock
-• Most advanced Clock styles options (choose all bold and accent variants you want)
+• Brand new Clock styles center with unique animated clocks
+• Brand new ZenHub with beautiful animated icons
+• Volume Panel styles
+• New Power Menu
+• Various QS Header styles
 • Ultra fast FOD
-• OTA support
 • Seperated Clock style for statusbar and QuicksettingsHeader
 • Toast Animations
-• OOS Notification kill button for notification panel
 • SystemInfo Tile (shows battery percentage, battery temp, cpu temp, gpu freq, cpu freq )
 • SystemInfo in QS next to Privacy chip icon
 • Calculator tile
 • Camera tile
 • Calendar/Event Tile
 • Dialer tile
-• Minimal and Minimal Box Clock for lockscreen
 • Option to disable dashboard conditions and suggestions
 • Optimize icons padding for notched devices (system and notification icons)
 • Ability of sensor block per-package
@@ -39,7 +40,6 @@ Developed for excellence
 • Lots of more dark theme color modes
 • Lockscreen clock/date font styles
 • Lockscreen clock/date size
-• Lockscreen clock position (left center right)
 • QS Header data usage info
 • Toggle for notifications smart reply
 • Set QS Header battery modes
@@ -53,8 +53,6 @@ Developed for excellence
 • Lockscreen Battery bar on charging or always
 • Allow hiding DND and Alarm from InfoBox to prevent cutted text on lockscreen
 • Increase animations speed for better ui feeling
-• Hide check button on Quick Unlock
-• Intellingent Performance Profiles Integration [URL="https://del.dog/IntelligentProfiles.txt"]https://del.dog/IntelligentProfiles.txt[/URL] // Will add link to GitHub Documentation
 • Ultra power saving mode
 • Cool wallpapers every release
 • Full ANX support and fixed portrait mode in source
@@ -62,8 +60,8 @@ Developed for excellence
 • Cleanup and optimize settings
 • Removed broken preferences and also make custom doze accessable via settings
 • and more..[/QUOTE][/HIDE]
-[U][LEFT][SIZE="5"]Downloads[/SIZE][/LEFT][/U][SIZE="3"][URL="http://androidfilehost.com"]Gapps Version[/URL]
-[URL="http://androidfilehost.com"]Vanilla Version[/URL][/SIZE]
+[U][LEFT][SIZE="5"]Downloads[/SIZE][/LEFT][/U][SIZE="3"][URL="ENTER URL"]Gapps Version[/URL]
+[URL="ENTER URL"]Vanilla Version[/URL][/SIZE]
 
 [U][LEFT][SIZE="5"]Changelog[/SIZE][/LEFT][/U][SIZE="3"][URL="http://del.dog"]Highlights[/URL]
 [URL="http://del.dog"]Full changelog[/URL][/SIZE]
